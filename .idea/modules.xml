@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/PearlHacksV2.iml" filepath="$PROJECT_DIR$/PearlHacksV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/PearlHacksV2.iml" filepath="$PROJECT_DIR$/.idea/PearlHacksV2.iml" />
+>>>>>>> 7b76c6aa22f4a0f433dd231ab0b56018e768efd2
     </modules>
   </component>
 </project>
